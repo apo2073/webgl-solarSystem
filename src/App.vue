@@ -1,5 +1,5 @@
 <script setup>
-import Ellipsoid from "./components/ellipsoid.vue";
+import Ellipsoid from "./components/solar.vue";
 </script>
 
 <template>
